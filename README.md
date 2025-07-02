@@ -3,7 +3,7 @@
 This repository contains the TensorFlow implementation of the Wave-GAN framework introduced in the paper:
 
 **Wave-GAN: A deep learning approach for the prediction of nonlinear wave-structure interactions**  
-Blanca Peña et al., *Computer Physics Communications*, 2021  
+Blanca Peña et al., *Coastal Engineering*, 2021  
 [https://doi.org/10.1016/j.cpc.2021.107440](https://www.sciencedirect.com/science/article/abs/pii/S0378383921000624)
 
 ---
